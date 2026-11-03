@@ -1,4 +1,0 @@
-interface:
-  display_name: "朋友圈与抖音图文写作"
-  short_description: "梳理对话并生成朋友圈与抖音稿，按真实反馈修订，保留有明确范围的写作偏好"
-  default_prompt: "用 $social-dual-post 从本次对话提取独立选题，选最多两题分别写朋友圈和抖音图文，评审修订后给我审核，不设固定人设。"
